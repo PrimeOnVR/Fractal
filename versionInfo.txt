@@ -1,1 +1,15 @@
-hi
+# About
+
+# Joining
+
+You can join your friends via e4mc, accessible by simply opening a world to LAN, and then checking your chat for an IP. Others may be required to use Fractal to join your world, due to QOL tie-ins.
+
+# Multiplayer
+
+If you would like to experience the full Fractal experience, with all mods and features, you must put "-Dfabric.addMods=.\fractal\extraMods\hasMultiplayerRisk" in your java arguments. By adding this java argument, you acknowledge the risks of using potentially non multiplayer-friendly mods!
+
+Multiplayer mod risks depend from server to server, certain mods such as Controllify can get you flagged on servers due to its ultra-fluid movement!
+
+**MOST** mods relating to weird movement and obvious cheats have been disabled and put in hasMultiplayerRisk, however, certain non-hack mods may be considered a competitive advantage based on the server, like Xaero's Minimap and World Map! Check your servers rules and the mods you have enabled!
+
+***I AM NOT RESPONSIBLE FOR SERVER BANS, ACCOUNT BANS, AND OTHER THINGS OCCURING FROM USING THIS MODPACK! YOU AND ONLY YOU HOLD THE SOLE RISK OF ANY ISSUES TO ARISE BY USE OF FRACTAL***
